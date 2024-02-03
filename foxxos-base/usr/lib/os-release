@@ -1,0 +1,10 @@
+PRETTY_NAME="Foxxos"
+NAME="Foxxos"
+VERSION_ID="rolling"
+VERSION="rolling"
+VERSION_CODENAME=rolling
+ID=foxxos
+HOME_URL="https://foxxos.net/"
+SUPPORT_URL="https://foxxos.net/"
+BUG_REPORT_URL="https://foxxos.net/"
+LOGO=foxxos

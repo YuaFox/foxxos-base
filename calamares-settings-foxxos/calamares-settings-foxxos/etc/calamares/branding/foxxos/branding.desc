@@ -1,0 +1,37 @@
+---
+componentName:  foxxos
+welcomeStyleCalamares:   true
+welcomeExpandingLogo:   true
+windowExpanding:    normal
+windowSize: 1280px,720px
+windowPlacement: center
+
+strings:
+    productName:         Foxxos
+    shortProductName:    Foxxos
+    version:             rolling
+    shortVersion:        rolling
+    versionedName:       Foxxos
+    shortVersionedName:  Foxxos
+    bootloaderEntryName: Foxxos
+    productUrl:          https://foxxos.net
+    supportUrl:          https://foxxos.net
+    releaseNotesUrl:     https://foxxos.net
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#2e3440"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#FFFFFF"
+   SidebarBackgroundCurrent: "#20242c"
+
+slideshowAPI: 2

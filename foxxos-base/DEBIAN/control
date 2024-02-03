@@ -1,0 +1,6 @@
+Package: foxxos-base
+Version: 1.0-0
+Maintainer: YuaFox
+Architecture: amd64
+Description: Foxxos base
+Replaces: base-files
