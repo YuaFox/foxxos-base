@@ -1,7 +1,7 @@
 Package: foxxos-desktop
-Version: 1.0-8
+Version: 1.0-9
 Maintainer: YuaFox
 Architecture: amd64
 Description: Utterly nord plasma KDE theme
-Depends: kde-standard, plasma-nm, plasma-bigscreen, qt5-style-kvantum, qt5-style-kvantum-themes
+Depends: kde-standard, plasma-nm, qt5-style-kvantum, qt5-style-kvantum-themes
 Conflicts: desktop-base

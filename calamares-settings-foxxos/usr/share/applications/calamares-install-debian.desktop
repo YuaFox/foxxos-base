@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install Debian
+Name=Install Foxxos
 GenericName=Calamares Installer
 Exec=calamares-install-debian
 Comment=Calamares — Installer for Debian Live

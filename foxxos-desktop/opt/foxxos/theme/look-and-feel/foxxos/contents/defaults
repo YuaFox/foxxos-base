@@ -2,7 +2,7 @@
 Theme=Utterly-Nord
 
 [kcminputrc][Mouse]
-cursorTheme=Nordic-cursors
+cursorTheme=Breeze
 
 [kdeglobals][General]
 ColorScheme=UtterlyNord

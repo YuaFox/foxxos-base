@@ -1,3 +1,2 @@
 [General]
-LogoPath=emblem-debian
-Version=Rolling
+LogoPath=/usr/share/icons/hicolor/scalable/apps/foxxos.svg

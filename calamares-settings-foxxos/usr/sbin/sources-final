@@ -1,0 +1,18 @@
+#!/bin/sh
+#
+# Writes the final sources.list file
+#
+
+CHROOT=$(mount | grep proc | grep calamares | awk '{print $3}' | sed -e "s#/proc##g")
+
+cat << EOF > $CHROOT/etc/apt/sources.list
+deb http://deb.foxxos.net/debian testing main non-free-firmware contrib non-free
+deb-src http://deb.foxxos.net/debian testing main non-free-firmware
+
+deb http://deb.foxxos.net/debian-security/ testing-security main non-free-firmware
+deb-src http://deb.foxxos.net/debian-security/ testing-security main non-free-firmware
+
+deb [arch=amd64] http://deb.foxxos.net/foxxos stable main
+EOF
+
+exit 0
